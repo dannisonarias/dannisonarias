@@ -5,7 +5,7 @@
 ### Open to Job Offers! :tada: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannisonarias/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dannisonarias@gmail.com)
-<!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/dannisonarias/dannisonarias/main/CV/resume.pdf)
+<!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/dannisonarias/dannisonarias/blob/main/CV/resume.pdf)
 -->
 
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
@@ -36,11 +36,11 @@ Get in touch with me at dannisonarias@gmail.com or through my linkedIn (link abo
     <img title="TypeScript" alt="TypeScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
     <img title="React.JS" alt="React.js" height=55 src="https://cdn.auth0.com/blog/react-js/react.png">
-    <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/dannisonarias/dannisonarias/main/img/nextjs.jpg">
+    <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/nextjs.jpg">
     <img title="GraphQL" alt="GraphQL" height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQtVT1CobRyWyfS194FBU0jf8W6eqg7srjSWqgcXRB_K7_qF_YU-gMjVnZeKKgh7lReI&usqp=CAU">
     <img title="Material UI" alt="Material UI" height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qvkwyXoEp63-8fLF6wm3bzxqypXoVGXCxaovfVezQNX5SVZVxluRocCTioU5PGtE3IA&usqp=CAU">
-    <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/dannisonarias/dannisonarias/main/img/tailwind.png">
-    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/dannisonarias/dannisonarias/main/img/styled-components2.png">
+    <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/tailwind.png">
+    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/styled-components2.png">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Node" alt="Node" height=50 src="https://lh6.googleusercontent.com/proxy/RHjBRTqkFA6mU5L4KbOV8QoVlqCdY960ZfeHJDxaZioSPJFlACaHcmKQOrOwGgKp2St0K9RLAxcVis1U1SEYXAXJAUaJa2XI-la5-4u9pS14ZhiyH_ozLUx0nGSvQwVW93nBYhAf9uyxml4aN5czkslm04D42cfJ=s0-d">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
@@ -53,7 +53,7 @@ Get in touch with me at dannisonarias@gmail.com or through my linkedIn (link abo
     <img title="VSCode" alt="VSCode" height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
     <img title="Firebase" alt="Firbase" height=40 src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png">
     <img title="Heroku" alt="Heroku" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
-    <img title="Vercel" alt="Vercel" height=40 src="https://github.com/dannisonarias/dannisonarias/main/img/vercel.png">
+    <img title="Vercel" alt="Vercel" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/vercel.png">
   </span>
 </p>
 
