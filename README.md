@@ -11,7 +11,7 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>
-I'm a ***Senior Frontend Developer | React Expert***, I also have a strong backend experience and I also have a strong business management background especially in startups. I was a CEO of a tech startup for 3 years and I have 7 years of experience in multiple Fully Remote Work Environments.
+I'm a ***Senior Frontend Developer | React Expert***, Strong backend experience. I was a CEO of a tech startup for 3 years and gained 7 years of experience in multiple Fully Remote Work Environments.
 <br>
 
 ***My Coding Skills:***<br>
