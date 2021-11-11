@@ -14,14 +14,14 @@
 I'm a ***Senior Frontend Developer | React Expert***, 3+ years experienced React developer with hands-on experience in identifying web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React concepts.
 
 ***My Coding Skills:***<br>
-***React.JS*** |***Redux*** | ***Ruby on Rails*** |***Unit Testing*** | ***Rspec*** | ***Data Structures*** | ***SQL*** | ***Postgres*** |  ***Object Oriented Programming*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | Gitlab | VSCode | Code Linters | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+***React.JS*** |***Redux*** | ***Ruby on Rails*** |***Unit Testing*** | ***Rspec*** | ***Data Structures*** | ***SQL*** | ***Postgres*** |  ***Object Oriented Programming*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | ***Framer-motion*** | ***Node.JS*** | SQL | Git | Github | Gitlab | VSCode | Code Linters | Firebase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
 
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>
-Get in touch with me at dannisonarias@gmail.com or through my linkedIn (link above).
+Get in touch with me at dannisonarias@gmail.com or through [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannisonarias/)
 
 
 
