@@ -1,7 +1,7 @@
 
 
 
-### Hi There 👋, I'm Dannison Arias, I'm a Senior Frontend Developer & React Expert. 
+### Hi There 👋, I'm Dannison Arias, I'm a Senior Full stack Developer & React Expert. 
 ### Open to Job Offers! :tada: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannisonarias/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dannisonarias@gmail.com)
@@ -11,7 +11,7 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>
-I'm a ***Senior Frontend Developer | React Expert***, 3+ years experienced React developer with hands-on experience in identifying web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React concepts.
+I'm a ***Senior Frontend Developer | React Expert***, 6+ years experienced React developer with hands-on experience in identifying web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React concepts.
 
 ***My Coding Skills:***<br>
 ***React.JS*** |***Redux*** | ***Ruby on Rails*** |***Unit Testing*** | ***Rspec*** | ***Data Structures*** | ***SQL*** | ***Postgres*** |  ***Object Oriented Programming*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | ***Framer-motion*** | ***Node.JS*** | SQL | Git | Github | Gitlab | VSCode | Code Linters | Firebase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
