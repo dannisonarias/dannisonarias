@@ -108,24 +108,6 @@ Context-aware support agents across multiple communication channels.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannisonarias&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 </div>
-
-> [!TIP]
-> The stats/top-languages cards were removed here because they run on the shared public demo of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), which frequently hits GitHub's API rate limit and breaks (that's what the two blank icons were). Deploying your own free copy on Vercel fixes this permanently.
-
-<div align="center">
-
-[![Deploy to Vercel](https://vercel.com/button)](https://github.com/anuraghazra/github-readme-stats/tree/master#deploy-on-your-own-vercel-instance)
-
-</div>
-
-Once deployed, swap `github-readme-stats.vercel.app` below for your own `.vercel.app` domain and add these two lines back into the GitHub Stats section:
-
-```
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=dannisonarias&show_icons=true&theme=tokyonight" />
-
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=dannisonarias&layout=compact&theme=tokyonight" />
-```
-
 <br/>
 
 <details>
