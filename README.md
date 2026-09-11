@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Dannison%20Arias&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%94%20AI%20Systems%20%26%20Automation%20Pipelines&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Dannison%20Arias&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<h3>Senior Software Engineer — AI Systems &amp; Automation Pipelines</h3>
 
 <a href="https://www.linkedin.com/in/dannisonarias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dannisonarias@gmail.com"><img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/dannisonarias"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=dannisonarias&style=flat-square&color=0ea5e9" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/dannisonarias?style=flat-square&color=0ea5e9&label=Followers" alt="followers"/>
@@ -23,7 +24,7 @@ I build production AI pipelines for **accuracy-critical, compliance-sensitive** 
 - 🧠 Focused on **self-correcting systems**: regression-tested pipeline changes, deterministic accuracy scoring, and tiered human-in-the-loop review for anything sensitive
 - 🌎 Also run a fully automated multilingual content pipeline — script generation, multi-voice narration, captioning, and distribution — at **sub-$200/month** operating cost
 - ✍️ Published on HackerNoon — one piece crossed **5,000+ reads**
-- 📫 Reach me at **dannisonarias@gmail.com**
+- 📫 Best way to reach me is [LinkedIn](https://www.linkedin.com/in/dannisonarias/)
 
 > [!NOTE]
 > Open to new opportunities — especially roles building reliable, human-in-the-loop AI systems.
@@ -125,8 +126,10 @@ Context-aware support agents across multiple communication channels.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dannisonarias&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannisonarias&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dannisonarias&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannisonarias&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannisonarias&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
