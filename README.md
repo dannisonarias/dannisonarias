@@ -1,58 +1,154 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Dannison%20Arias&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%94%20AI%20Systems%20%26%20Automation%20Pipelines&descAlignY=58&descSize=18" width="100%"/>
 
+<a href="https://www.linkedin.com/in/dannisonarias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dannisonarias@gmail.com"><img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/dannisonarias"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-### Hi There 👋, I'm Dannison Arias, I'm a Senior Full stack Developer & React Expert. 
-### Open to Job Offers! :tada: 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannisonarias/)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dannisonarias@gmail.com)
-<!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/dannisonarias/dannisonarias/blob/main/CV/resume.pdf)
--->
+<br/>
 
-<img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
+<img src="https://komarev.com/ghpvc/?username=dannisonarias&style=flat-square&color=0ea5e9" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/dannisonarias?style=flat-square&color=0ea5e9&label=Followers" alt="followers"/>
 
-***About Me:***<br>
-I'm a ***Senior Frontend Developer | React Expert***, 6+ years experienced React developer with hands-on experience in identifying web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React concepts.
+</div>
 
-***My Coding Skills:***<br>
-***React.JS*** |***Redux*** | ***Ruby on Rails*** |***Unit Testing*** | ***Rspec*** | ***Data Structures*** | ***SQL*** | ***Postgres*** |  ***Object Oriented Programming*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | ***Framer-motion*** | ***Node.JS*** | SQL | Git | Github | Gitlab | VSCode | Code Linters | Firebase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+<br/>
 
-***My Professional Skills:***<br>
-Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
+## About Me
 
-***Do I Sound Like a Good Fit For Your Team?***
-<br>
-Get in touch with me at dannisonarias@gmail.com or through [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dannisonarias/)
+I build production AI pipelines for **accuracy-critical, compliance-sensitive** use cases — systems that turn unstructured input into trustworthy, structured output at scale, and that catch their own mistakes before a human ever sees them.
 
+- 🔭 Currently the **Founder & Lead Engineer** of an AI content-transformation and verification platform — architecture, infra, payments, and deployment owned solo, end to end
+- 🧠 Focused on **self-correcting systems**: regression-tested pipeline changes, deterministic accuracy scoring, and tiered human-in-the-loop review for anything sensitive
+- 🌎 Also run a fully automated multilingual content pipeline — script generation, multi-voice narration, captioning, and distribution — at **sub-$200/month** operating cost
+- ✍️ Published on HackerNoon — one piece crossed **5,000+ reads**
+- 📫 Reach me at **dannisonarias@gmail.com**
 
+> [!NOTE]
+> Open to new opportunities — especially roles building reliable, human-in-the-loop AI systems.
 
-<p align="center">
-  <span align="center" class="d-flex">
-    <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
-    <img title="CSS" alt="CSS" height=40
-      src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
-    <img title="JavaScript" alt="JavaScript" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="TypeScript" alt="TypeScript" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
-    <img title="React.JS" alt="React.js" height=55 src="https://cdn.auth0.com/blog/react-js/react.png">
-    <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/nextjs.jpg">
-    <img title="GraphQL" alt="GraphQL" height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQtVT1CobRyWyfS194FBU0jf8W6eqg7srjSWqgcXRB_K7_qF_YU-gMjVnZeKKgh7lReI&usqp=CAU">
-    <img title="Material UI" alt="Material UI" height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qvkwyXoEp63-8fLF6wm3bzxqypXoVGXCxaovfVezQNX5SVZVxluRocCTioU5PGtE3IA&usqp=CAU">
-    <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/tailwind.png">
-    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/styled-components2.png">
-    <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
-    <img title="Node" alt="Node" height=50 src="https://lh6.googleusercontent.com/proxy/RHjBRTqkFA6mU5L4KbOV8QoVlqCdY960ZfeHJDxaZioSPJFlACaHcmKQOrOwGgKp2St0K9RLAxcVis1U1SEYXAXJAUaJa2XI-la5-4u9pS14ZhiyH_ozLUx0nGSvQwVW93nBYhAf9uyxml4aN5czkslm04D42cfJ=s0-d">
-    <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
-    <img title="Bootstrap" alt="Bootstrap" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
-    <img title="SQL" alt="SQL" height=40
-      src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
-    <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-    <img title="Github" alt="Github" height=40 src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png">
-    <img title="VSCode" alt="VSCode" height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-    <img title="Firebase" alt="Firbase" height=40 src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png">
-    <img title="Heroku" alt="Heroku" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
-    <img title="Vercel" alt="Vercel" height=40 src="https://github.com/dannisonarias/dannisonarias/blob/main/img/vercel.png">
-  </span>
-</p>
+<br/>
 
+## What I've Shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 AI Content Transformation & Verification Pipeline
+End-to-end system combining machine parsing and model-driven generation to produce high-fidelity, compliance-ready output — domain-agnostic architecture, not tied to one content type.
+
+- Self-healing regression framework: every change is scored against a full historical dataset and **blocked if it regresses accuracy**
+- Custom rendering/compositing layer to preserve source fidelity
+- Tiered human-in-the-loop review that gates sensitive fields behind human confirmation
+- Full phase-level observability for fast root-cause diagnosis
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Automated Multilingual Content Platform
+Fully automated daily educational audio/video pipeline — near-zero manual intervention.
+
+- Script generation → multi-voice narration → captioning → scheduled publishing
+- Multi-layer quality verification: deterministic validators **plus** parallel AI review agents
+- Runs at under $200/month
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Adaptive Video-Based Learning App
+React Native mobile app that pauses instructional video at AI-selected learning moments.
+
+- AI-selected pause points tied to comprehension checks
+- Spaced-repetition progress tracking
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 AI Conversational Systems
+Context-aware support agents across multiple communication channels.
+
+- Multi-agent workspace tooling for resource allocation and task isolation
+- Structured data pipelines for training/evaluating conversational AI
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+**Languages & Frameworks**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/>
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Orchestration-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/OCR-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-0ea5e9?style=flat-square"/>
+
+**Cloud & Infrastructure**
+
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Step_Functions-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0ea5e9?style=flat-square"/>
+
+**Tooling**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dannisonarias&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannisonarias&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dannisonarias&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+</div>
+
+<br/>
+
+<details>
+<summary><strong>📚 Background</strong></summary>
+<br/>
+
+**Full-Stack Web Development Program** — Remote Software Engineering Program, 2019–2020
+1,300+ hours across Ruby, Rails, JavaScript, React, Redux, SQL, TDD, pair programming, and code review over 48+ repositories.
+
+**Published Articles — HackerNoon**
+- "10 Things Every Beginner Should Know When Learning JavaScript and React" (2020, 5,000+ reads)
+- "Flexbox Guide for Beginners — Intro to CSS Layouts" (2020)
+
+</details>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%"/>
+</div>
